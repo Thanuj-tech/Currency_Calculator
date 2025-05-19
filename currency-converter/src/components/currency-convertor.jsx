@@ -128,10 +128,7 @@ const CurrencyConverter = () => {
         </div>
       )}
 
-      {/* Watermark */}
-      <h4 className="mt-10 text-center text-gray-700 font-semibold">
-        Currency Calculator by Thanuj Kumar R
-      </h4>
+
     </div>
   );
 };
